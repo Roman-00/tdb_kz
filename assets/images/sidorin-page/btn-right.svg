@@ -1,0 +1,7 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:screen">
+<circle cx="24" cy="24" r="23.5" transform="rotate(-180 24 24)" fill="#1D1D1D"/>
+<circle cx="24" cy="24" r="23.5" transform="rotate(-180 24 24)" stroke="#F7F7F7"/>
+</g>
+<path d="M14.2223 23.5418L21.7318 30.2231L22.4675 29.4612L16.3679 24.0693L32.8889 24.0693L32.8889 23.0437L16.3679 23.0437L22.4675 17.6224L21.7318 16.8898L14.2223 23.5418Z" fill="#F7F7F7"/>
+</svg>
