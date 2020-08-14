@@ -226,7 +226,7 @@ mark.red {
 }
 
 a {
-   color: #89a60b;
+   color: #AED112;
    text-decoration: none;
    -webkit-transition: all 0.3s;
    -o-transition: all 0.3s;
@@ -332,7 +332,7 @@ p {
    outline: none;
    background-color: transparent;
    color: #ffffff;
-   border: 1px solid #89a60b;
+   border: 1px solid #AED112;
    font-weight: 500;
    text-transform: uppercase;
    font-size: 15px;
@@ -356,7 +356,7 @@ p {
    padding-top: 200%;
    border-radius: 100%;
    position: absolute;
-   background-color: #89a60b;
+   background-color: #AED112;
    top: 80px;
    left: -50%;
    -webkit-transition: all 0.8s;
@@ -396,7 +396,7 @@ p {
 
 .btn_red {
    border-color: #ffffff;
-   background: #89a60b;
+   background: #AED112;
 }
 
 .btn_red:before {
@@ -409,8 +409,8 @@ p {
 }
 
 .btn_red2 {
-   border-color: #89a60b;
-   background: #89a60b;
+   border-color: #AED112;
+   background: #AED112;
 }
 
 .btn_red2:hover {
@@ -459,7 +459,7 @@ p {
    content: "";
    width: 16px;
    height: 1px;
-   background: #89a60b;
+   background: #AED112;
    position: absolute;
    right: 0px;
    top: 50%;
@@ -478,9 +478,9 @@ p {
    left: -9999px;
    width: 64px;
    height: 64px;
-   background: #89a60b;
+   background: #AED112;
    border-radius: 100%;
-   background: #89a60b url(../images/icons/arrow_right-w.svg) center center no-repeat;
+   background: #AED112 url(../images/icons/arrow_right-w.svg) center center no-repeat;
 }
 
 .btn_full {
@@ -1658,7 +1658,7 @@ header a:hover {
 }
 
 .swiper-button-box>*:hover {
-   border-color: #89a60b;
+   border-color: #AED112;
 }
 
 .swiper-button-box>* img {
@@ -1700,7 +1700,7 @@ header a:hover {
    left: 0;
    right: 100%;
    bottom: 0;
-   background: #89a60b;
+   background: #AED112;
    -webkit-transition: all 0s;
    -o-transition: all 0s;
    transition: all 0s;
@@ -1807,7 +1807,7 @@ header a:hover {
    right: 41.5%;
    top: 0;
    bottom: 0;
-   background-color: #89a60b;
+   background-color: #AED112;
 }
 
 .resp-tabs-list {
@@ -1841,7 +1841,7 @@ header a:hover {
 }
 
 .resp-tabs-list .resp-tab-active {
-   color: #89a60b;
+   color: #AED112;
 }
 
 .resp-tabs-list .resp-tab-active:after {
@@ -2566,7 +2566,7 @@ div.resp-accordion {
 }
 
 .form_bg {
-   background: #89a60b;
+   background: #AED112;
    border-radius: 1px;
    padding: 65px 64px 56px 64px;
    max-width: 450px;
@@ -2969,7 +2969,7 @@ div.resp-accordion {
 }
 
 .box_item7_cont h6 {
-   color: #89a60b;
+   color: #AED112;
    font-weight: 500;
    font-size: 32px;
    line-height: 132%;
