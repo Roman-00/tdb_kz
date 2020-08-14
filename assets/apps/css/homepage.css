@@ -226,7 +226,7 @@ mark.red {
 }
 
 a {
-   color: #e00815;
+   color: #89a60b;
    text-decoration: none;
    -webkit-transition: all 0.3s;
    -o-transition: all 0.3s;
@@ -234,7 +234,7 @@ a {
 }
 
 a:hover {
-   color: #e00815;
+   color: #1d1d1d;
    text-decoration: none;
    -webkit-transition: all 0.3s;
    -o-transition: all 0.3s;
@@ -332,7 +332,7 @@ p {
    outline: none;
    background-color: transparent;
    color: #ffffff;
-   border: 1px solid #e00815;
+   border: 1px solid #89a60b;
    font-weight: 500;
    text-transform: uppercase;
    font-size: 15px;
@@ -356,7 +356,7 @@ p {
    padding-top: 200%;
    border-radius: 100%;
    position: absolute;
-   background-color: #e00815;
+   background-color: #89a60b;
    top: 80px;
    left: -50%;
    -webkit-transition: all 0.8s;
@@ -391,12 +391,12 @@ p {
 .btn:focus:before,
 .btn.active:before {
    top: -80px;
-   background-color: #e00815;
+   background-color: #1d1d1d;
 }
 
 .btn_red {
    border-color: #ffffff;
-   background: #e00815;
+   background: #89a60b;
 }
 
 .btn_red:before {
@@ -409,8 +409,8 @@ p {
 }
 
 .btn_red2 {
-   border-color: #e00815;
-   background: #e00815;
+   border-color: #89a60b;
+   background: #89a60b;
 }
 
 .btn_red2:hover {
@@ -432,7 +432,7 @@ p {
 }
 
 .btn_black:before {
-   background-color: #e00815;
+   background-color: #1d1d1d;
 }
 
 .btn_black:hover {
@@ -459,7 +459,7 @@ p {
    content: "";
    width: 16px;
    height: 1px;
-   background: #e00815;
+   background: #89a60b;
    position: absolute;
    right: 0px;
    top: 50%;
@@ -478,9 +478,9 @@ p {
    left: -9999px;
    width: 64px;
    height: 64px;
-   background: #e00815;
+   background: #89a60b;
    border-radius: 100%;
-   background: #e00815 url(../images/icons/arrow_right.svg) center center no-repeat;
+   background: #89a60b url(../images/icons/arrow_right-w.svg) center center no-repeat;
 }
 
 .btn_full {
@@ -1658,7 +1658,7 @@ header a:hover {
 }
 
 .swiper-button-box>*:hover {
-   border-color: #e00815;
+   border-color: #89a60b;
 }
 
 .swiper-button-box>* img {
@@ -1700,7 +1700,7 @@ header a:hover {
    left: 0;
    right: 100%;
    bottom: 0;
-   background: #e00815;
+   background: #89a60b;
    -webkit-transition: all 0s;
    -o-transition: all 0s;
    transition: all 0s;
@@ -1807,7 +1807,7 @@ header a:hover {
    right: 41.5%;
    top: 0;
    bottom: 0;
-   background-color: #e00815;
+   background-color: #89a60b;
 }
 
 .resp-tabs-list {
@@ -1841,7 +1841,7 @@ header a:hover {
 }
 
 .resp-tabs-list .resp-tab-active {
-   color: #e00815;
+   color: #89a60b;
 }
 
 .resp-tabs-list .resp-tab-active:after {
@@ -2566,7 +2566,7 @@ div.resp-accordion {
 }
 
 .form_bg {
-   background: #e00815;
+   background: #89a60b;
    border-radius: 1px;
    padding: 65px 64px 56px 64px;
    max-width: 450px;
@@ -2969,7 +2969,7 @@ div.resp-accordion {
 }
 
 .box_item7_cont h6 {
-   color: #e00815;
+   color: #89a60b;
    font-weight: 500;
    font-size: 32px;
    line-height: 132%;
